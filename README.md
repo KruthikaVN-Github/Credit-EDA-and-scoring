@@ -40,8 +40,4 @@ This project aims to conduct an Exploratory Data Analysis (EDA) on the credit da
 Exploratory Data Analysis (EDA): Analyze the distribution, trends, and relationships within the dataset.
 Feature Engineering: Create new features and assess their impact on the credit score.
 Credit Score Calculation: Build a model or methodology to estimate a hypothetical credit score based on the data.
-How to Use
-Clone this repository: git clone <repository_url>
-Install dependencies: Install the necessary Python libraries (e.g., pandas, numpy, sklearn, etc.).
-Run analysis: Explore the data, create visualizations, and calculate credit scores using the available features.
-Build predictive model: (Optional) Use the features to train a machine learning model for credit score prediction.
+
